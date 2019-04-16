@@ -20,14 +20,23 @@
 .warm{
   background-color: #77777c;
 }
-.container1{
+div[class^="container"]{
   display: grid;
+}
+div[class^="container"] *, .posts *{
+  border: 1px dashed;
+}
+.container1{
   grid-template-columns: repeat(auto-fill, 50%);
 }
-.container2{
+.posts{
   display: grid;
   grid-template-columns: repeat(auto-fill, 33.33%);
   
 }
 
-
+.container3{
+  grid-template-columns: 20% 1fr;
+  gap: 20px;
+ margin: 5px;
+}
