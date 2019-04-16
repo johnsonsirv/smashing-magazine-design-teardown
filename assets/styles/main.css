@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+  border: 1px solid;
+}
+.small{
+  height: 10vh;
+}
+.medium{
+  height: 50vh;
+}
+.large{
+  height: 80vh;
+}
+.hot{
+  background-color: #464647;
+}
+.cool{
+  background-color: #b0b0b7;
+}
+.warm{
+  background-color: #77777c;
+}
+.container1{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 50%);
+}
+.container2{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 33.33%);
+  
+}
+
+
