@@ -38,7 +38,7 @@ div[class^="container"] *, .posts *{
   width: 85%;
   height: 70px;
   border: solid 1px #464647;
-  border-radius: 5px;
+  border-radius: 8px;
   margin: 7px;
 }
 
