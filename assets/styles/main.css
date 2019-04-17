@@ -105,8 +105,8 @@ nav{
   border-radius: 6px;
 }
 .btn-small { height: 5vh; width: 6vw; }
-
 .btn-medium { height: 9vh; width: 12vw; }
+.btn-large { height: 9vh; width: 20vw; }
 .sidebar{
   display: flex; 
   justify-content: center;
@@ -116,4 +116,5 @@ nav{
   line-height: 1.4em;
   border-radius: 7px;
   padding: 4px;
+  text-align: center;
 }
