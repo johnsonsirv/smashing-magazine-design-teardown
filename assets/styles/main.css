@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6{
   border-radius: 10px;
 }
 .medium{
-  height: 50vh;
+  height: 52vh;
 }
 .large{
   height: 80vh;
@@ -141,7 +141,7 @@ nav{
   align-items: center; 
   flex-direction: column;
   font-size: 1.4em;
-  line-height: 1.4em;
+  line-height: 1.3em;
   border-radius: 7px;
   padding: 4px;
   text-align: center;
