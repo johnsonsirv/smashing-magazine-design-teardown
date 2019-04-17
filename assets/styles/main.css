@@ -39,6 +39,7 @@ div[class^="container"]{
 .posts{
   display: grid;
   grid-template-columns: repeat(auto-fill, 33.33%);
+  margin-bottom: 2.5em;
 }
 .post2{
   display: grid;
