@@ -196,4 +196,19 @@ nav{
   list-style-type:disc ;
   line-height: 1.6em;
 }
+.footer-section {
+  color: #fff;
+  margin: auto;
+  text-align: center;
+}
+.footer-section  li {
+  display: inline-block;
+  padding: 3px;
+  font-size: 1.5em;
+  list-style-type: square;
+}
+.footer-section a {
+  color: #fff;
+  text-decoration: none;
+}
 
