@@ -26,7 +26,7 @@ $ cd smashing-magazine-design-teardown
 
 ## Deployment
 
-The demo page can be found [HERE](https://raw.githack.com/johnsonsirv/smashing-magazine-design-teardown/dev/)
+The live page can be found [HERE](https://johnsonsirv.github.io/smashing-magazine-design-teardown/)
 
 ## Contributors
 
