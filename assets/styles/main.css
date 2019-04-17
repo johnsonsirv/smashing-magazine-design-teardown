@@ -43,7 +43,7 @@ div[class^="container"] *, .posts *{
 }
 
 .post-content{
-  color: #ffffff;
+  color: #292828;
   font-size: 1.4em;
   line-height: 1.2em;
   border: none;
@@ -114,4 +114,6 @@ nav{
   flex-direction: column;
   font-size: 1.4em;
   line-height: 1.4em;
+  border-radius: 7px;
+  padding: 4px;
 }
