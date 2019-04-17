@@ -34,6 +34,11 @@ div[class^="container"] *, .posts *{
   display: grid;
   grid-template-columns: repeat(auto-fill, 33.33%);
 }
+.post-title{
+  width: 50%;
+  height: 50px;
+  border: solid 1px #fff;
+}
 
 .container3{
   grid-template-columns: 20% 1fr;
@@ -74,4 +79,14 @@ nav{
  width: 110px;
  text-align: center;
  font-size:1.8em; 
+}
+.latest-article{
+  position: absolute;
+  top: 15%;
+  left: 45%;
+  color: #fff;
+  width: 22vw;
+  font-size:1.8em;
+  text-align: center;
+  font-weight: 700;
 }
