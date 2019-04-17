@@ -35,11 +35,20 @@ div[class^="container"] *, .posts *{
   grid-template-columns: repeat(auto-fill, 33.33%);
 }
 .post-title{
-  width: 50%;
-  height: 50px;
-  border: solid 1px #fff;
+  width: 85%;
+  height: 70px;
+  border: solid 1px #464647;
+  border-radius: 5px;
+  margin: 7px;
 }
 
+.post-content{
+  color: #ffffff;
+  font-size: 1.4em;
+  line-height: 1.2em;
+  border: none;
+  padding: 5px;
+}
 .container3{
   grid-template-columns: 20% 1fr;
   gap: 20px;
