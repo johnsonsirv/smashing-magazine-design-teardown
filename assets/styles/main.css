@@ -99,6 +99,13 @@ nav{
   text-align: center;
   font-weight: 700;
 }
+.latest-post-caption{
+  margin: auto;
+  font-size:1.8em;
+  color: #fff;
+  font-weight: 700;
+  line-height:18em;
+}
 .button{
   margin-top: 6px;
   background-color: #e1e1e2;
