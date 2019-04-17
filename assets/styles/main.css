@@ -107,6 +107,7 @@ nav{
 .btn-small { height: 5vh; width: 6vw; }
 .btn-medium { height: 9vh; width: 12vw; }
 .btn-large { height: 9vh; width: 20vw; }
+.btn-x-large { height: 9vh; width: 26vw; }
 .sidebar{
   display: flex; 
   justify-content: center;
@@ -117,4 +118,7 @@ nav{
   border-radius: 7px;
   padding: 4px;
   text-align: center;
+}
+.jumbotron{
+  
 }
