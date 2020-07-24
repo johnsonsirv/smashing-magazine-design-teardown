@@ -26,8 +26,15 @@ This project was completed for demonstration purposes in line with standards pro
 
 #### Live URL: The live page can be found [HERE](https://johnsonsirv.github.io/smashing-magazine-design-teardown/)
 
-![](https://github.com/johnsonsirv/mashing-magazine-design-teardown/blob/master/docs/smashing_orignal.png)
-![](https://github.com/johnsonsirv/mashing-magazine-design-teardown/blob/master/docs/smashing_grayscale.png)
+#### Original UX
+<a href="https://smashingmagazine.com" target="_blank">
+  <img alt="" src="https://github.com/johnsonsirv/smashing-magazine-design-teardown/blob/master/docs/smashing_orignal.png" />
+</a>
+
+#### Grayscale Heat map
+<a href="(https://johnsonsirv.github.io/smashing-magazine-design-teardown/" target="_blank">
+  <img alt="" src="https://github.com/johnsonsirv/smashing-magazine-design-teardown/blob/master/docs/smashing_grayscale.png" />
+</a>
 
 ## Built with:
 
